@@ -1,4 +1,4 @@
-    getgenv().Setting = {
+getgenv().Setting = {
         ["Team"] = "Pirate",
         ["Method Click"] = {["Click Gun"] = true ,["Click Melee"] = true,["Click Sword"] = true,["Click Fruit"] = true, ["LowHealth"] = 4500, ["Delay Click"] = 0.3},
         ["Race V4"] = {["Enable"] = true},
@@ -68,3 +68,4 @@
         }
 
     }
+

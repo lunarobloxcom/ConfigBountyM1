@@ -3,7 +3,7 @@
         ["Method Click"] = {["Click Gun"] = true ,["Click Melee"] = true,["Click Sword"] = true,["Click Fruit"] = true, ["LowHealth"] = 4500, ["Delay Click"] = 0.3},
         ["Race V4"] = {["Enable"] = true},
         ["Webhook"] = {["Enabled"] = false,["Url Webhook"] = ""},
-        ["Misc"] = {["AutoBuyRandomandStoreFruit"] = true,["AutoBuySurprise"] = true},
+        ["Misc"] = {["AutoBuyRandomandStoreFruit"] = true,["AutoBuySurprise"] = false},
         ["SafeZone"] = {["Enable"] = true,["LowHealth"] = 4500,["MaxHealth"] = 8000,["Teleport Y"] = 2000},
         ["Method Use Skill"] = {["Use Random"] = true,["Use Number"] = false},
         ["Use random skill if player target low health"] = { --- suport only method use skill Number
@@ -66,4 +66,5 @@
                 },
             },
         }
+
     }
